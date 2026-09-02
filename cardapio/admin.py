@@ -1,5 +1,5 @@
 from django.contrib import admin
-from recanto_site.models import Categoria, Prato
+from cardapio.models import Categoria, Prato
 
 
 @admin.register(Categoria)
